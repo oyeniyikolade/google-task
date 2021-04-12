@@ -72,7 +72,7 @@ footer {
 }
 
 .footer_top {
-  padding: 12px;
+  padding: 15px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
@@ -81,7 +81,7 @@ footer {
 }
 
 .footer_bottom {
-  padding: 4px;
+  padding: 10px;
   display: flex;
   justify-content: space-between;
 }
